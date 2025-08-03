@@ -1,2 +1,2 @@
-# Vendor-App
-A portal where verified vendors can offer services and users can request services
+# DevOps Practive Project
+This will be repo where I practive my dev ops skills 
